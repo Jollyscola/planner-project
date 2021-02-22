@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Star wars 6",
+      "details": "The empire strikes back",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "The lord of the rings",
+      "details": "The two towers",
+      "complete": false
+    }
+  ]
+}
